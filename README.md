@@ -14,7 +14,7 @@ This is a blockchain based ledger system which allow users to transer financial 
 
 ## Usage
 
-Clone and run the application by using in terminal streamlit run pychain.py
+Clone and run the application by writing streamlit run pychain.py in terminal
 
 ## Examples
 ![Blockchain Ledger](images/blockchain-ledger.png)
