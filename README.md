@@ -16,7 +16,7 @@ This is a blockchain based ledger system which allow users to transer financial 
 
 Clone and run the application by writing streamlit run pychain.py in terminal
 
-## Examples
+## Example
 ![Blockchain Ledger](images/blockchain-ledger.png)
 
 ## Contributors
